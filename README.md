@@ -1,11 +1,13 @@
-<h1>##Trabalho de Laboratorio de Programação I ##</h1>
-Autoras: Ana Clara (github.com/claranobre) e Maria Clara (github.com/mclara-s)
+<h1>##Trabalho de Estrutura da Dados I##</h1>
+Autora: Ana Clara (github.com/claranobre)
 
 <h1>** PROJETO B.A.R.E.S. **</h1>
 
 <h5>O projeto Basic Arithmetic Expression Evaluator Based On Stacks (B.A.R.E.S.) foi criado com a intenção de abordar os assuntos vistos em sala de aula.</h5>
 <h5>Proporcionando o cálculo de operações aritméticas utilizando o método infixo e pósfixo para leitura em fila e empilhamento de dados. Servirá também para verificar se as expressões apresentam os seguintes erros:</h5>
 *Constante numerica invalida,Falta operando, Operando inválido, Operador inválido, Falta operador, Fechamento de escopo inválido, Escopo aberto, Divisão por zero.*
+
+Obs.: Esse projeto foi executado em dupla no semestre 2015.1 na disciplina de Laboratorio de Programação I, portanto o escopo do projeto é uma reciclagem do meu próprio projeto e de minha dupla na época.
 
 <h1>**Execução**</h1>
 
